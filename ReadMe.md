@@ -3,6 +3,8 @@
 Welcome to Delegate365!  
 Delegate365 is a user-friendly, web-based portal for user, group and license management that allows to split a single Microsoft 365 tenant into smaller, manageable organizational units. Each organizational unit can use Delegate365 to manage itself within the defined scopes. Delegate365 is based on three pillars and supports delegation, automation and auditing.
 
+## Links
+
 Here are some more online resources about Delegate365.
 
 - Delegate365 One Pager          https://bit.ly/d365onepage
